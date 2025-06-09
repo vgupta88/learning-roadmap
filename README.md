@@ -2,8 +2,6 @@
 
 **Developer Profile**: 10+ years experience | Spring Boot | WebFlux | GCP | Kubernetes | Microservices  
 **Goal**: Transition into an AI-integrated backend expert role in the next 12 months  
-**Start Date**: {date.today().strftime('%B %Y')}
-
 ---
 
 ## 📆 12-Month Learning Plan
